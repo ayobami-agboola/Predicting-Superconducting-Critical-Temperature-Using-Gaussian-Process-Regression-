@@ -1,1 +1,2 @@
-# Predicting-Superconducting-Critical-Temperature-Using-Gaussian-Process-Regression-
+# Predicting-Superconducting-Critical-Temperature-Using-Gaussian-Process-Regression
+The capability of the Gaussian Process Regression (GPR) in predicting the critical temperature of superconductors was assessed. Principal Component Analysis (PCA) and Kernel Principal Component Analysis (KPCA) were also explored to assess their impact on the GPR model performance. Furthermore, other models, Linear Regression (LR), Random Forest (RF), and Support Vector Regression (SVR) were also used in predicting the superconductors’ critical temperature. 
